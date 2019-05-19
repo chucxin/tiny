@@ -1,6 +1,7 @@
 # tiny
 
 ![npm](https://img.shields.io/npm/v/@chucxin/tiny.svg?style=flat-square)
+![npm bundle size](https://img.shields.io/bundlephobia/min/@chucxin/tiny.svg)
 
 It's funny.
 
